@@ -20,8 +20,5 @@ $ sh train.sh
 $ sh eval.sh
 ```
 
-## publicaton
-
-If you find this code useful, please let us know and cite our paper.  
 If you have any question, please contact czhl@hrbeu.edu.cn
 "# newsformer" 
